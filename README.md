@@ -20,6 +20,7 @@ Integrate mental health resources and support into the tool, including links to 
 Step 2: Identify the computational subtasks. 
 
 A.	Mood tracker: a bit computational, collect data
+
 B. Create a journaling prompt feature (write the prompts and put in a dictionary): This could be computational, choose the prompt according to user data instead of at random
 
 C.	display users' mental health progress and provide personalized output based on their data: this is a computational task
