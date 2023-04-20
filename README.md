@@ -9,32 +9,33 @@ Research and identify the most effective methods for tracking mental health
 
 Develop a mood tracker
 
-Create a journaling prompt feature (write the prompts and put in a dictionary)
+Create a journaling prompt feature
 
-display users' mental health progress and provide personalized output based on their data
+split the input into separate words for text analysis
 
-Integrate mental health resources and support into the tool, including links to articles, videos, and professional services
-（maybe out of scope of project) design an interface
+check for positive vs negative words
 
+evaluate and print out a mood score
 
 Step 2: Identify the computational subtasks. 
 
-A.	Mood tracker: a bit computational, collect data
+Mood tracker:
 
-B. Create a journaling prompt feature (write the prompts and put in a dictionary): This could be computational, choose the prompt according to user data instead of at random
+Prompt the user for input
 
-C.	display users' mental health progress and provide personalized output based on their data: this is a computational task
+Split the input into separate words (for later text analysis)
 
+Define the mood score variable
 
-Step 3: Rank the computational subtasks. 
+Check for positive and negative mood words
 
-C >A>B
-
-Step 4: Choose one. Choose one computational subtask as your final project. Your ranking should help you choose.
+Loop through each word in the input, increasing score for positive words and decreasing for negative words
+       
+Print out the mood score
 
 We more or less decided on the Mental Health Tracker idea.
-Step 5: Create a repo for your FP. 
--done on Github
+Step 3: Create a repo for your FP. 
+Done on Google colab here https://colab.research.google.com/drive/1IMKmtT8-INIRm7XHnx9V5IAXhICAjz47?usp=sharing
 
 
 ![image](https://user-images.githubusercontent.com/129343930/229309904-f615983b-ac4b-45ab-926b-3d6cd924fbc1.png)
