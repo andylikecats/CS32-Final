@@ -33,7 +33,6 @@ Loop through each word in the input, increasing score for positive words and dec
        
 Print out the mood score
 
-We more or less decided on the Mental Health Tracker idea.
 Step 3: 
 Done on Google colab here https://colab.research.google.com/drive/1IMKmtT8-INIRm7XHnx9V5IAXhICAjz47?usp=sharing
 
