@@ -34,7 +34,7 @@ Loop through each word in the input, increasing score for positive words and dec
 Print out the mood score
 
 Step 3: 
-Done on Google colab here https://colab.research.google.com/drive/1IMKmtT8-INIRm7XHnx9V5IAXhICAjz47?usp=sharing
+Done on Google colab here https://colab.research.google.com/drive/1IMKmtT8-IRm7XHnx9V5IAXhICAjz47?usp=sharing
 
 
 ![image](https://user-images.githubusercontent.com/129343930/229309904-f615983b-ac4b-45ab-926b-3d6cd924fbc1.png)
